@@ -8,6 +8,8 @@ Simple TypeScript hello world app with a tested `helloWorld(name, language)` fun
 npm install
 ```
 
+Note: We added the `bowserify` package for future use.
+
 ## Run the app
 
 ```bash
