@@ -17,6 +17,7 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
-    "bowserify": "^10.2.1"
+    "bowserify": "^10.2.1",
+    "browserlist": "^1.0.2"
   }
 }
