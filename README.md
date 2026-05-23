@@ -1,6 +1,6 @@
 # hello-typescript
 
-Simple TypeScript hello world app with a tested `helloWorld(name)` function.
+Simple TypeScript hello world app with a tested `helloWorld(name, language)` function.
 
 ## Setup
 
