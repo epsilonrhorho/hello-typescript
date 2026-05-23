@@ -17,6 +17,7 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
+    "bowserify": "^10.2.1",
     "event-source-polyfill": "^1.0.26"
   }
 }
